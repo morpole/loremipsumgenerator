@@ -91,7 +91,7 @@ h2,
 h3,
 h4 {
   letter-spacing: var(--spacing);
-  text-transform: capitalize;
+  text-transform: capitalize; 
   line-height: 1.25;
   margin-bottom: 0.75rem;
   font-family: var(--ff-primary);
@@ -138,7 +138,7 @@ p {
 /*  global classes */
 
 .btn {
-  text-transform: uppercase;
+  text-transform: uppercase; 
   background: var(--clr-primary-5);
   color: var(--clr-primary-1);
   padding: 0.375rem 0.75rem;
@@ -184,7 +184,8 @@ Lorem Ipsum
 ===============
 */
 h3 {
-  text-transform: uppercase;
+  text-transform: uppercase; 
+
   color: var(--clr-primary-1);
 }
 .lorem-form {
